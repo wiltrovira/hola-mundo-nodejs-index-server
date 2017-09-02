@@ -1,7 +1,7 @@
 {
-  "name": "hola-mundo-nodejs-index-server",
+  "name": "http-createserver-102",
   "version": "0.1.0",
-  "description": "hola mundo nodejs index server separados",
+  "description": "hola mundo nodejs http create server index server",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/wiltrovira/hola-mundo-nodejs-index-server.git"
+    "url": "git+https://github.com/wiltrovira/http-createserver-102.git"
   },
   "keywords": [
     "hola",
@@ -17,12 +17,13 @@
     "nodejs",
     "index",
     "server",
-    "separados"
+    "http",
+    "createserver"
   ],
   "author": "Wilt Rovira",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/wiltrovira/hola-mundo-nodejs-index-server/issues"
+    "url": "https://github.com/wiltrovira/http-createserver-102/issues"
   },
-  "homepage": "https://github.com/wiltrovira/hola-mundo-nodejs-index-server#readme"
+  "homepage": "https://github.com/wiltrovira/http-createserver-102#readme"
 }
